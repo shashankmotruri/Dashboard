@@ -1,0 +1,121 @@
+.user-info {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 261.00px;
+  height: 35.00px;
+  left: 131.00px;
+  top: 11.00px;
+}
+.user-info .hello {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 25.00px;
+    font-weight: 700;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    white-space: pre;
+    width: 68.00px;
+  height: 34.00px;
+  left: 0.00px;
+  top: 1.00px;
+}
+.user-info .shashank {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 25.00px;
+    font-weight: 700;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    width: 132.00px;
+  height: 34.00px;
+  left: 81.00px;
+  top: 1.00px;
+}
+.user-info .wavingHand {
+  position: absolute;
+    box-sizing: content-box;
+    -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+    background-image: url("../../assets/wavingHand.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(112, 112, 112, 1);
+    border-style: none;
+    border-width: 1.00px;
+    width: 35.00px;
+  height: 35.00px;
+  left: 226.00px;
+  top: 0.00px;
+}
+.user-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 191.00px;
+  height: 34.00px;
+  left: 899.00px;
+  top: 17.00px;
+}
+.user-container .photo2 {
+  position: absolute;
+  width: 40.00px;
+  height: 36.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.user-container .user-gmail {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    width: 150.00px;
+  height: 13.00px;
+  left: 41.00px;
+  top: 10.00px;
+}
+.notification-icon {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 25.53px;
+  height: 30.95px;
+  left: 852.77px;
+  top: 18.00px;
+}
+.notification-icon .path6 {
+  position: absolute;
+    fill: rgba(85, 69, 157, 1);  
+    width: 6.58px;
+  height: 3.73px;
+  left: 9.45px;
+  top: 27.22px;
+}
+.notification-icon .path7 {
+  position: absolute;
+fill: rgba(85, 69, 157, 1);   
+width: 25.53px;
+  height: 25.88px;
+  left: 0.00px;
+  top: 0.00px;
+}

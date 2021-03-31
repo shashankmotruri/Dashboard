@@ -1,0 +1,288 @@
+.sidepanel {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 93.00px;
+  height: 568.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.sidepanel .sidepanelContainer {
+  position: absolute;
+    background-color: rgba(250, 249, 252, 1);
+  border-color: rgba(112, 112, 112, 1);
+  border-style: none;
+  border-width: 1.00px;
+  border-radius: 50px ;
+    width: 93.00px;
+  height: 568.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 49.00px;
+  height: 441.00px;
+  left: 24.00px;
+  top: 97.00px;
+}
+.sidepanel .navBar .dashboad {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 49.00px;
+  height: 33.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .dashboad .iconMaterialDashboard {
+  position: absolute;
+    fill: rgba(134, 197, 229, 1);
+    width: 20.00px;
+  height: 20.00px;
+  left: 12.26px;
+  top: 0.00px;
+}
+.sidepanel .navBar .dashboad .dashboard-text {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 700;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 49.00px;
+  height: 13.00px;
+  left: 0.00px;
+  top: 20.00px;
+}
+.sidepanel .navBar .messages-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 46.00px;
+  height: 33.00px;
+  left: 2.00px;
+  top: 68.00px;
+}
+.sidepanel .navBar .messages-container .iconMaterialMessage {
+  position: absolute;
+    fill: rgba(0, 0, 0, 0.14901960784313725);
+    width: 20.00px;
+  height: 20.00px;
+  left: 11.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .messages-container .messages {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 300;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 46.00px;
+  height: 13.00px;
+  left: 0.00px;
+  top: 20.00px;
+}
+.sidepanel .navBar .earnings-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 36.00px;
+  height: 35.00px;
+  left: 2.00px;
+  top: 136.00px;
+}
+.sidepanel .navBar .earnings-container .iconMaterialWeb {
+  position: absolute;
+    fill: rgba(0, 0, 0, 0.14901960784313725);
+    width: 20.00px;
+  height: 20.00px;
+  left: 8.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .earnings-container .earnings {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 300;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 36.00px;
+  height: 13.00px;
+  left: 0.00px;
+  top: 22.00px;
+}
+.sidepanel .navBar .jobs-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 23.50px;
+  height: 33.00px;
+  left: 10.50px;
+  top: 206.00px;
+}
+.sidepanel .navBar .jobs-container .iconFeatherSearch {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 20.35px;
+  height: 20.45px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .jobs-container .iconFeatherSearch .path1 {
+  position: absolute;
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 0.14901960784313725);
+        stroke-width: 3.00px;
+        stroke-linecap: round;
+    width: 22.55px;
+  height: 23.45px;
+  left: -3.00px;
+  top: -3.00px;
+}
+.sidepanel .navBar .jobs-container .iconFeatherSearch .path2 {
+  position: absolute;
+    fill: transparent;
+    stroke: rgba(0, 0, 0, 0.14901960784313725);
+        stroke-width: 3.00px;
+        stroke-linecap: round;
+    width: 12.23px;
+  height: 11.13px;
+  left: 11.12px;
+  top: 12.32px;
+}
+.sidepanel .navBar .jobs-container .jobs {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 300;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 22.00px;
+  height: 13.00px;
+  left: 1.50px;
+  top: 20.00px;
+}
+.sidepanel .navBar .schedule-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 42.00px;
+  height: 35.00px;
+  left: 2.00px;
+  top: 274.00px;
+}
+.sidepanel .navBar .schedule-container .iconAwesomeCalendarCheck {
+  position: absolute;
+    fill: rgba(0, 0, 0, 0.14901960784313725);
+    width: 22.80px;
+  height: 22.20px;
+  left: 7.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .schedule-container .schedule {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 300;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 42.00px;
+  height: 13.00px;
+  left: 0.00px;
+  top: 22.00px;
+}
+.sidepanel .navBar .lessons-container {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 31.00px;
+  height: 29.50px;
+  left: 7.00px;
+  top: 344.50px;
+}
+.sidepanel .navBar .lessons-container .iconAwesomeVideo {
+  position: absolute;
+    fill: rgba(0, 0, 0, 0.14901960784313725);
+    width: 25.00px;
+  height: 16.37px;
+  left: 2.85px;
+  top: 0.00px;
+}
+.sidepanel .navBar .lessons-container .lesson {
+  position: absolute;
+    background-color: rgba(255, 255, 255, 0);
+    text-align: left;
+    letter-spacing: 0.00px;
+    color: rgba(0, 0, 0, 1);
+    -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+    font-size: 9.00px;
+    font-weight: 300;
+  font-style: normal;
+    font-family: 'Open Sans', Arial;
+    text-decoration: none;
+    white-space: pre;
+    width: 31.00px;
+  height: 13.00px;
+  left: 0.00px;
+  top: 16.50px;
+}
+.sidepanel .navBar .customercare {
+    display: block;
+    position: absolute;
+    background-color: transparent;
+    width: 28.00px;
+  height: 24.00px;
+  left: 8.00px;
+  top: 417.00px;
+}
+.sidepanel .navBar .customercare .ellipse4 {
+  position: absolute;
+    fill: rgba(211, 195, 250, 0.5019607843137255);
+    width: 28.00px;
+  height: 24.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+.sidepanel .navBar .customercare .iconMaterialHeadsetMic {
+  position: absolute;
+    fill: rgba(0, 0, 0, 0.14901960784313725);
+    width: 16.50px;
+  height: 16.90px;
+  left: 5.50px;
+  top: 3.50px;
+}
